@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "packageManager": "pnpm@7.13.4",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {}
+}
