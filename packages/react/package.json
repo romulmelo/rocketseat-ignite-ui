@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/web",
+  "name": "@ignite-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
